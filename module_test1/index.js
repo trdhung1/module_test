@@ -1,2 +1,1 @@
-export function test (a, b) {return a + b};
-  
+module.export = (a, b) => a + b;
