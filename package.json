@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/trdhung1/module_test/issues"
   },
+  "dependencies": {
+    "module_test1": "https://github.com/trdhung1/module_test.git"
+  },
   "homepage": "https://github.com/trdhung1/module_test#readme"
 }

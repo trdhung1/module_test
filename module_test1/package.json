@@ -9,6 +9,9 @@
   "exports": {
     ".": "./index.js"
   },
+  "import": {
+    "#module_test1": "./index.js"
+  },
   "type": "module",
   "author": "",
   "license": "ISC"
