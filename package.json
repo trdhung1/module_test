@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trdhung1/module_test.git"
+    "url": "git+https://github.com/trdhung1/module_test.git",
+    "directory": "packages/module_test1"
   },
   "author": "hung",
   "license": "ISC",
